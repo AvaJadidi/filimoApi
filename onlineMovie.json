@@ -5,14 +5,14 @@
       "name": "گیجگاه",
       "ganer":"کمدی  عاشقانه",
       "director": "عادل تبریزی",
-      "image": "./src/image/online-gijgah.webp"
+      "image": "../image/online-gijgah.webp"
     },
     {
       "id": 2,
       "name": "فسیل",
       "ganer":"کمدی  خانوادگی",
       "director": "کریم امینی",
-      "image": "./src/image/online-fosil.webp"
+      "image": "../image/online-fosil.webp"
     },
 
     {
@@ -20,21 +20,21 @@
       "name": "کاپیتان",
       "ganer":"درام  خانوادگی",
       "director": "محمد حمزه ای",
-      "image": "./src/image/online-capitan.webp"
+      "image": "../image/online-capitan.webp"
     },
     {
       "id": 4,
       "name": "جنگل پرتقال",
       "ganer":"درام  عاشقانه",
       "director": "آرمان خوانساریان",
-      "image": "./src/image/online-gangal.webp"
+      "image": "../image/online-gangal.webp"
     },
     {
       "id": 5,
       "name": "بی همه چیز",
       "ganer":"درام  خانوادگی",
       "director": "محسن قرایی",
-      "image": "./src/image/online-bihamechiz.webp"
+      "image": "../image/online-bihamechiz.webp"
     }
   ]
 }
