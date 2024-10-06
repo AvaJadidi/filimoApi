@@ -1,9 +1,6 @@
 {
     "banner":[
         {
-            "url":"./src/image/bibadan.jpeg"
-        },
-        {
             "url":"./src/image/cartoonmahi.jpeg"
         },
         {
@@ -14,7 +11,7 @@
         }
         ,
         {
-            "url":"./src/image/bibadan.jpeg"
+            "url":"./src/image/bibadan.webp"
         },
         {
             "url":"./src/image/cartoonmahi.jpeg"
