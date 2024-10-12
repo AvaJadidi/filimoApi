@@ -23,7 +23,7 @@
             "id":2,
             "name":" گناه فرشته",
             "year":1402,
-            "poster":"./src/image/posterFereshte",
+            "poster":"./src/image/posterFereshte.jpg",
             "image":"./src/image/gonahfereshte.webp", 
             "director":"حامد عنقا",
             "actors":"شهاب حسینی، امیر آقایی،لادن مستوفی",
@@ -50,7 +50,7 @@
             "runtime":"1فصل و 2 قسمت",
             "country":"ایران",
             "quality":"HD",
-            "type":" سریال",
+            "type":"سریال",
             "imdb_rating": "7.3/10"
         },
         {
